@@ -3,7 +3,6 @@ package com.example.yamada_pc.test_sql;
 /**
  * Created by yamada-PC on 2016/11/07.
  */
-
 import android.content.ContentValues;
 import android.content.Context;
 import android.database.Cursor;
