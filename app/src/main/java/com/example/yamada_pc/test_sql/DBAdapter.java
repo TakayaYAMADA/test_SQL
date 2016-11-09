@@ -68,7 +68,7 @@ public class DBAdapter {
         return db.delete(TABLE_NAME,null,null)>0;
     }
 
-    public boolean deleteNOte(int id){
+    public boolean deleteNote(int id){
         return db.delete(TABLE_NAME,COL_ID + "=" +id,null) > 0;
     }
 
